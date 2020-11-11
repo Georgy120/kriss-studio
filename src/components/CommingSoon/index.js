@@ -11,7 +11,7 @@ function ComingSoon() {
             <div className="line"></div>
             <div className="contact">
             <i className="iconPhone"><FaPhoneAlt /></i>
-            <h3>509 659 173</h3>
+            <h3>Test</h3>
             </div>
             </div>
         </div>
