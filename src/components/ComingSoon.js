@@ -8,7 +8,7 @@ const ComingSoon = () => {
             <ComingContent>
                 <h1>GABINET KOSMETYCZNY</h1>
                 <h2>JASKULSKI SKIN MED</h2>
-                <p>tel. 508 866 334 lub 509 659 173</p>
+                <p>tel. 508-866-334 lub 509-659-173</p>
                 <h3>Zapraszamy</h3>
                 <p> ul. Na Skarpie 10, 06-100 Pułtusk <br />
                     Poniedziałek 13:00 - 20:00 <br />
