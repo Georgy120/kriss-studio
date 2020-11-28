@@ -31,6 +31,7 @@ const CommingContainer = styled.div`
     display: flex;
     justify-content: start;
     align-items: center;
+    overflow: hidden;
 `
 
 
