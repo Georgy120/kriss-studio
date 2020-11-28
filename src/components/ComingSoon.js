@@ -40,7 +40,7 @@ const ComingContent = styled.div`
     h1 {
         font-size: clamp(2rem, 5vw, 2rem);
         font-weight: lighter;
-        margin-bottom: 0.2rem
+        margin-bottom: 0.2rem;
     }
 
     h2 {
@@ -52,7 +52,9 @@ const ComingContent = styled.div`
     p {
         font-size: clamp(1.5rem, 2.5vw, 1rem);
         padding: 0.2rem 0;
-        line-height: 1.7rem
+        line-height: 1.7rem;
+        color: #fff !important;
+        text-decoration: none !important;
     }
 
     h3 {
@@ -68,6 +70,8 @@ const ComingContent = styled.div`
 
         p {
             font-size: clamp(1.5rem, 2.5vw, 2rem);
+            color: #fff !important;
+            text-decoration: none !important;
         }
     }
 
